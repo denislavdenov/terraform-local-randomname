@@ -1,5 +1,5 @@
 tags = attribute(
-  "tags",
+  "instance_id",
   description: "The Terraform configuration under test must define an "
 )
 
